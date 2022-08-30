@@ -701,6 +701,7 @@
 - [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 - [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
 - [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
+- [Vue 3 lifecycle hooks with real-time example](https://medium.com/canopas/vue-3-lifecycle-hooks-with-real-time-example-1b772b89e085)
 
 ### Courses
 
